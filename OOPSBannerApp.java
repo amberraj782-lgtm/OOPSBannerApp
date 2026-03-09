@@ -5,7 +5,7 @@
  *
  * Refactored version using inline array initialization with String.join()
  *
- * @author Ankit
+ * @author Amber
  * @version 5.0
  */
 
