@@ -6,7 +6,7 @@
  * Banner patterns are generated using helper methods
  * for better modularity and reusability.
  *
- * @author Ankit
+ * @author Amber
  * @version 6.0
  */
 
