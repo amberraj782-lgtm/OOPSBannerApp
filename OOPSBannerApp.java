@@ -6,7 +6,7 @@
  * Demonstrates encapsulation using a static inner class
  * to store character-to-pattern mapping.
  *
- * @author Ankit
+ * @author Amber
  * @version 7.0
  */
 
