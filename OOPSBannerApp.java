@@ -5,7 +5,7 @@
  *
  * Displays OOPS using ASCII art (7 lines height).
  *
- * @author Ankit
+ * @author Amber
  * @version 2.0
  */
 
